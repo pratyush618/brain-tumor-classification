@@ -1,8 +1,6 @@
-# brain-tumor-classification
-Deep learning model designed on CNN-SVM hybrid mode
-# MRI Brain Tumor Detection
+# MRI Brain Tumor Detection using CNN-SVM hybrid model
 
-![MRI Brain Tumor Detection](https://www.researchgate.net/publication/225059460/figure/fig3/AS:615057322934272@1523652501177/Axial-T1W-MRI-of-the-brain-Though-the-entire-image-occupies-hard-disk-space-for-storage.png)
+![MRI Brain Tumor Detection](https://prod-images-static.radiopaedia.org/images/17022440/df9c05ff19e7dedf2af31796666fdd_gallery.jpeg)
 
 ## Overview
 
