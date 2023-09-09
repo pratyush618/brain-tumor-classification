@@ -1,6 +1,7 @@
 # MRI Brain Tumor Detection using CNN-SVM hybrid model
 
 ![MRI Brain Tumor Detection](https://prod-images-static.radiopaedia.org/images/17022440/df9c05ff19e7dedf2af31796666fdd_gallery.jpeg)
+**Accuracy:** 96%
 
 ## Overview
 
